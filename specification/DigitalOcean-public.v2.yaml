@@ -16,7 +16,6 @@ info:
 
 servers:
   - url: 'https://api.digitalocean.com'
-   mk
     description: production
 
 tags:
